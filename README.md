@@ -1,2 +1,2 @@
 
-### Saving draw.io, now www.diagrams.net, projects in XML.
+### Saving *draw.io*, now *apps.diagrams.net*, projects in XML.
