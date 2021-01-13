@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T10:27:07.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="q9aeU8M4g2zAGWVHGw78" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T10:27:41.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6nFxdKenBBsKItAup7n1" version="14.1.9" type="github">
   <diagram id="XjHLATgaNIMUa8NQz7aA" name="Page-1">
     <mxGraphModel dx="1775" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,14 +99,8 @@
         <mxCell id="Xf1OnpS6K2WvkpgggGJM-37" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TA1b77W6NPm8kg9r0I7c-27" target="Xf1OnpS6K2WvkpgggGJM-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TA1b77W6NPm8kg9r0I7c-27" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="230" width="64" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="Xf1OnpS6K2WvkpgggGJM-38" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TA1b77W6NPm8kg9r0I7c-28" target="Xf1OnpS6K2WvkpgggGJM-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TA1b77W6NPm8kg9r0I7c-28" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="230" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="TA1b77W6NPm8kg9r0I7c-32" value="ToR_SW2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="440" width="70" height="20" as="geometry" />
@@ -303,6 +297,12 @@
             <mxPoint x="452" y="240" as="sourcePoint" />
             <mxPoint x="452" y="126.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TA1b77W6NPm8kg9r0I7c-27" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="230" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TA1b77W6NPm8kg9r0I7c-28" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="230" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
