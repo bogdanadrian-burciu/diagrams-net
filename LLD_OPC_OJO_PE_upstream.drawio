@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T16:41:08.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DFqiOKJAApyJpqJNL5-g" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T16:42:00.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="xJqJyl0dSR9jyX_v1m4T" version="14.1.9" type="github">
   <diagram id="XjHLATgaNIMUa8NQz7aA" name="Page-1">
     <mxGraphModel dx="925" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           <mxGeometry x="280.5" y="380" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x_MbXOnC_4zCQMFG_pCe-26" value="" style="shape=mxgraph.cisco.security.gatekeeper;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="135" height="80" as="geometry" />
+          <mxGeometry x="290" y="70" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x_MbXOnC_4zCQMFG_pCe-27" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;GIN Access Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="218" y="110" width="110" height="20" as="geometry" />
