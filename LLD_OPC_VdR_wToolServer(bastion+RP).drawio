@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:32:12.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8UEz5dtrfqyTQEBlNPk0" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T12:24:25.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IWcsxC9Lo5Ftz-PfTVPD" version="14.2.7" type="github">
   <diagram id="cgUr09Xqpb1lFKW807KI" name="Page-1">
-    <mxGraphModel dx="957" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,20 +303,20 @@
         <mxCell id="PLKDB188a2l5lJHVr24N-156" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Bastion VM&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1221.75" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PLKDB188a2l5lJHVr24N-158" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-157" target="PLKDB188a2l5lJHVr24N-146">
+        <mxCell id="PLKDB188a2l5lJHVr24N-158" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-157" target="PLKDB188a2l5lJHVr24N-146">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1044.75" y="257" />
+              <mxPoint x="1045" y="246" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-159" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-157" target="PLKDB188a2l5lJHVr24N-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PLKDB188a2l5lJHVr24N-160" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.095;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-157" target="PLKDB188a2l5lJHVr24N-151">
+        <mxCell id="PLKDB188a2l5lJHVr24N-160" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.095;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-157" target="PLKDB188a2l5lJHVr24N-151">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1044.75" y="527" />
+              <mxPoint x="1045" y="516" />
             </Array>
           </mxGeometry>
         </mxCell>
