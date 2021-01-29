@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T10:46:08.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="g-tP3SP9lwcG8ROtMQIP" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T10:46:39.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cgLUFX5-7KygyCRcs-4D" version="14.2.7" type="github">
   <diagram id="cgUr09Xqpb1lFKW807KI" name="Page-1">
     <mxGraphModel dx="957" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -213,13 +213,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-99" value="" style="shape=mxgraph.cisco.security.gatekeeper;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="14" y="115.75" width="125" height="60" as="geometry" />
+          <mxGeometry x="39" y="153" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-100" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;GIN Access Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="29" y="95.75" width="110" height="20" as="geometry" />
+          <mxGeometry x="54" y="133" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-111" value="" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="87" y="229.5" width="29" height="67" as="geometry" />
+          <mxGeometry x="87" y="266" width="29" height="67" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-40" value="" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;html=1;pointerEvents=1;dashed=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="443.5" y="1020.5" width="71" height="30" as="geometry" />
@@ -431,7 +431,7 @@
           <mxGeometry x="59" y="430.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-204" value="FW-EXT-LOG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="209.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="80" y="246" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-205" value="Border Leaf pair" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="460.25" width="100" height="20" as="geometry" />
