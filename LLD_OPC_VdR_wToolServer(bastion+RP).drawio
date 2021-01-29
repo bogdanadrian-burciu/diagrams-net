@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:21:12.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="fkz9vnC7KsaKxKZTs5XW" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T11:24:18.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QSqpJOyw0rmm4CBlmdIC" version="14.2.7" type="github">
   <diagram id="cgUr09Xqpb1lFKW807KI" name="Page-1">
     <mxGraphModel dx="790" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,14 +175,13 @@
         <mxCell id="PLKDB188a2l5lJHVr24N-83" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="671.5" y="258.5" width="52.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PLKDB188a2l5lJHVr24N-98" style="shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-99" target="PLKDB188a2l5lJHVr24N-111">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PLKDB188a2l5lJHVr24N-98" style="shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.2;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PLKDB188a2l5lJHVr24N-241" target="PLKDB188a2l5lJHVr24N-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.08878504672896" y="222.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PLKDB188a2l5lJHVr24N-99" value="" style="shape=mxgraph.cisco.security.gatekeeper;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="120" y="162.5" width="125" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PLKDB188a2l5lJHVr24N-100" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;GIN Access Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="135" y="140" width="110" height="20" as="geometry" />
+        <mxCell id="PLKDB188a2l5lJHVr24N-100" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;GIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-111" value="" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="84.5" y="266" width="29" height="67" as="geometry" />
@@ -407,6 +406,9 @@
         </mxCell>
         <mxCell id="PLKDB188a2l5lJHVr24N-238" value="v4bf33-srx0*" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="777.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLKDB188a2l5lJHVr24N-241" value="" style="shape=mxgraph.cisco.storage.cloud;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="143.75" width="135" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
